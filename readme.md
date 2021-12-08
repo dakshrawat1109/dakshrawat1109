@@ -1,5 +1,5 @@
 # Part 1 Daksh Rawat_Inheritance_Lab
-There are various files for the part of the project 
+There are various files for the part of this project 
 
 org.eclipse.jdt.core.prefs file in part of the folder ".settings"
 
